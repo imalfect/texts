@@ -9,9 +9,7 @@
 amount of $BAN you have already earned using your config from    <a href="https://bananominer.com/">https://bananominer.com/</a>. If you
     want to learn more about how the Banano community is providing a valuable
     contribution to medical research you can check out
-    <a
-        href="https://www.publish0x.com/banano/heres-how-you-can-help-fight-coronavirus-and-youll-even-get-xmvdpq?a=QJ0dNjvdLO" target="_blank
-    >
+    <a href="https://www.publish0x.com/banano/heres-how-you-can-help-fight-coronavirus-and-youll-even-get-xmvdpq?a=QJ0dNjvdLO" target="_blank>
         this article
     </a>
     .
