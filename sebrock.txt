@@ -1,16 +1,2 @@
 
-<p>
-    BananoMiner Watch is a <strong>Chrome Browser Extension</strong> that shows
-    you all stats about your contributions to the
-    <a href="https://stats.foldingathome.org/team/234980" target="_blank>
-        www.banano.cc team
-    </a>
-    at <a href="https://foldingathome.org/" target="_blank>Folding@home</a> including the
-amount of $BAN you have already earned using your config from    <a href="https://bananominer.com/">https://bananominer.com/</a>. If you
-    want to learn more about how the Banano community is providing a valuable
-    contribution to medical research you can check out
-    <a href="https://www.publish0x.com/banano/heres-how-you-can-help-fight-coronavirus-and-youll-even-get-xmvdpq?a=QJ0dNjvdLO" target="_blank>
-        this article
-    </a>
-    .
-</p>
+<p> BananoMiner Watch is a <strong>Chrome Browser Extension</strong> that shows you all stats about your contributions to the <a href="https://stats.foldingathome.org/team/234980" target="_blank>   www.banano.cc team </a> at <a href="https://foldingathome.org/" target="_blank>Folding@home</a> including the amount of $BAN you have already earned using your config from <a href="https://bananominer.com/" target="_blank >https://bananominer.com/</a>. If you want to learn more about how the Banano community is providing a valuable contribution to medical research you can check out <a href="https://www.publish0x.com/banano/heres-how-you-can-help-fight-coronavirus-and-youll-even-get-xmvdpq?a=QJ0dNjvdLO" target="_blank>this article.</a></br>BananoMiner Watch is a community project made by Banano jungle monkeys for Banano jungle monkeys.</br>Made with 💛 and 🍌 potassium in Brazil, Germany, and the BANANO Jungle 🐒🐒.</br>Brought to you by andrecjr and sebrock|42 </p>
